@@ -1,15 +1,19 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# insuranceanalysis2
+# InSUranceAnaa Lyss
 
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of insuranceanalysis2 is to …
+## RESUMEN
 
-What is special about using `README.Rmd` instead of just `README.md`?
-You can include R chunks like so:
+Se obtuvieron datos de las reclamaciones de una aseguradora en
+Monterrey. De acuerdo a los datos obtenidos es posible combinar los
+riesgos del portafolio de la aseguradora. Este reporte se crea como un
+soporte para el Comité de Riesgo para conocer la estructura de los
+riesgos así como la influencia de las reclamaciones con las variables
+que se conocen.
 
 ``` r
 summary(cars)
