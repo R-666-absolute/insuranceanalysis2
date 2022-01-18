@@ -471,6 +471,8 @@ abline(lm(Payment~Kilometres, data = DB), col="Red")
 
 
 
+
+
 #PRUEBA DE SUMA
 colSums(DB)
 
